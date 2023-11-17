@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*--------------------------------------------------------------------------------*/
+
+.maintitle {
+    font-size: 65px;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+}
+
+.alerta {
+    border: 2px red solid;
+    width: 70px;
+}
+
+.cor {
+    border: 2px blue solid;
+    width: 70px;
+}
+
+.soma {
+    border: 2px lime solid;
+    width: 70px;
+}
